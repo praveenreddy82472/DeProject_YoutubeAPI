@@ -11,7 +11,7 @@ def main():
     # Set up API credentials and service
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "AIzaSyC5lp9noMkJxJpl0aR9EjrXcFZkvpkRVNY"  # Add your API key here
+    DEVELOPER_KEY = ""  # Add your API key here
 
     youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=DEVELOPER_KEY)
 
