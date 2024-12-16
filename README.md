@@ -5,6 +5,10 @@ This is a **Data Engineering Project** that involves collecting data from the **
 
 ## Project Workflow
 
+
+![YouTube API ETL Workflow](https://github.com/praveenreddy82472/DeProject_YoutubeAPI/blob/main/images/Flow.png)
+
+
 1. **Collect Data from YouTube API:**
    - The project uses the YouTube Data API (v3) to collect data such as video details, comments, and other relevant metadata based on specified queries or channels.
    - A **Python function** is written to call the YouTube API and collect data using an API key.
